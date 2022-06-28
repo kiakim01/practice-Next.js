@@ -16,6 +16,7 @@ export default function Home(){
     })();
   }, []);
 
+  //1
   return (
     <div>
       <Seo title="Home"/>
